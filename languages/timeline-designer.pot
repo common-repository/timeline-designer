@@ -1,0 +1,4183 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Timeline\n"
+"POT-Creation-Date: 2024-08-09 18:46+0530\n"
+"PO-Revision-Date: 2017-09-20 11:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: Solwininfotech <info@solwininfotech.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x:1,2c;_n;_ex;_nx;"
+"esc_attr_e;_n_noop:1,2;esc_attr__;esc_attr_x;esc_html__;esc_html_e;"
+"esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/assets/add-custom-post-type.php:45
+#: admin/assets/add-custom-post-type.php:139
+msgid "Edit Custom Post Type"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:47
+msgid "Add New Custom Post Type"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:53
+msgid "Custom Post Type has been added successfully."
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:59
+#: admin/assets/admin-layout-settings.php:91
+msgid "Layout has been duplicated successfully."
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:92
+msgid "Custom Post Type Generator"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:95
+#: admin/assets/add-custom-post-type.php:96
+#: admin/assets/add-custom-post-type.php:98
+#: admin/assets/admin-layout-settings.php:145
+#: admin/assets/admin-layout-settings.php:146
+#: admin/assets/admin-layout-settings.php:148
+msgid "Save Changes"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:122
+#: admin/assets/admin-custom-post-type-list.php:136
+#: admin/assets/admin-custom-post-type-list.php:206
+#: admin/assets/admin-custom-post-type-list.php:283
+#: admin/class-wp-timeline-lite-admin.php:227
+msgid "Custom Post Type"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:126
+msgid "Custom Post Type Taxonomy"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:141
+msgid "Create New Cusom Post Type"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:145
+#: admin/assets/admin-layout-settings.php:402
+msgid "Caution"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:145
+msgid ""
+"Be careful while creating slugs, It will appear in the URL. If you change "
+"the slugs then you may lost your data. After creating custom post, do not "
+"forgot to save permalinks ( Settings -> Permalinks ). "
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:148
+msgid "Custom Post Type Plural Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:150
+msgid "Add Custom Post Type Plural Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:151
+msgid "Plural Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:153
+msgid ""
+"General name for the post type, usually plural (e.g. Portfolios, "
+"Projects, Galleries)."
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:157
+msgid "Custom Post Type Singular Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:159
+msgid "Add Custom Post Type Singular Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:160
+msgid "Singular Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:162
+msgid "Name for one object of this post type (e.g. Portfolio, Project)."
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:166
+msgid "Custom Post Type Slug"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:168
+msgid "Add Custom Post Type Slug"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:169
+#: admin/assets/admin-custom-post-type-list.php:210
+#: admin/assets/admin-custom-post-type-list.php:269
+#: admin/assets/admin-custom-post-type-list.php:284
+msgid "Slug"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:171
+msgid ""
+"URL friendly version of the custom post type (e.g. portfolio, project)."
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:175
+msgid "Custom Post Type Icon"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:177
+msgid "Select option to add icon in custom post type menu"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:181
+msgid "WordPress Icon"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:183
+msgid "Cusotm Icon"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:187
+msgid "dashicons-portfolio"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:188
+msgid "Icon for your custom post type. For more icons"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:188
+msgid "Click here"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:191
+#: admin/assets/admin-layout-settings.php:2502
+msgid "Select post default image"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:201
+#: admin/assets/admin-layout-settings.php:2511 admin/wtl-functions.php:282
+msgid "Remove Image"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:203
+#: admin/assets/admin-layout-settings.php:2513 admin/wtl-functions.php:284
+msgid "Upload Image"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:219
+msgid "Create Custom Category"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:221
+msgid " Enable/Disable create custom category"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:225
+#: admin/assets/add-custom-post-type.php:255
+#: admin/assets/admin-layout-settings.php:468
+#: admin/assets/admin-layout-settings.php:499
+#: admin/assets/admin-layout-settings.php:524
+#: admin/assets/admin-layout-settings.php:551
+#: admin/assets/admin-layout-settings.php:575
+#: admin/assets/admin-layout-settings.php:602
+#: admin/assets/admin-layout-settings.php:789
+#: admin/assets/admin-layout-settings.php:958
+#: admin/assets/admin-layout-settings.php:1028
+#: admin/assets/admin-layout-settings.php:1092
+#: admin/assets/admin-layout-settings.php:1201
+#: admin/assets/admin-layout-settings.php:1302
+#: admin/assets/admin-layout-settings.php:1316
+#: admin/assets/admin-layout-settings.php:1551
+#: admin/assets/admin-layout-settings.php:1612
+#: admin/assets/admin-layout-settings.php:2131
+#: admin/assets/admin-layout-settings.php:2416
+#: admin/assets/admin-layout-settings.php:2621
+#: admin/assets/admin-layout-settings.php:2739
+#: admin/assets/admin-layout-settings.php:2911
+#: admin/assets/admin-layout-settings.php:3165
+#: admin/assets/admin-layout-settings.php:3231
+#: admin/assets/admin-layout-settings.php:3378
+#: admin/assets/admin-layout-settings.php:3608
+#: admin/assets/admin-layout-settings.php:3672
+#: admin/assets/admin-layout-settings.php:4214
+#: admin/assets/admin-layout-settings.php:4283
+#: admin/assets/admin-layout-settings.php:4857
+#: admin/assets/admin-layout-settings.php:4932
+#: admin/assets/admin-layout-settings.php:5118
+#: admin/assets/admin-layout-settings.php:5164
+#: admin/assets/admin-layout-settings.php:5704
+#: admin/assets/admin-layout-settings.php:5780
+#: admin/assets/admin-layout-settings.php:5956
+#: admin/assets/admin-layout-settings.php:5980
+#: admin/assets/admin-layout-settings.php:5995
+#: admin/assets/admin-layout-settings.php:6010
+#: admin/assets/admin-layout-settings.php:6035
+#: admin/assets/admin-layout-settings.php:6050
+#: admin/assets/admin-layout-settings.php:6065
+#: admin/assets/admin-layout-settings.php:6080
+#: admin/assets/admin-layout-settings.php:6095
+#: admin/assets/admin-layout-settings.php:6110
+#: admin/assets/admin-layout-settings.php:6125
+#: admin/assets/admin-layout-settings.php:6140
+#: admin/assets/admin-layout-settings.php:6155
+#: admin/assets/admin-layout-settings.php:6170
+#: admin/class-wp-timeline-lite-ajax.php:302
+#: admin/class-wp-timeline-lite-ajax.php:317
+#: admin/class-wp-timeline-lite-ajax.php:339 admin/wtl-functions.php:222
+#: admin/wtl-functions.php:307
+msgid "Yes"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:227
+#: admin/assets/add-custom-post-type.php:257
+#: admin/assets/admin-layout-settings.php:470
+#: admin/assets/admin-layout-settings.php:501
+#: admin/assets/admin-layout-settings.php:526
+#: admin/assets/admin-layout-settings.php:553
+#: admin/assets/admin-layout-settings.php:577
+#: admin/assets/admin-layout-settings.php:604
+#: admin/assets/admin-layout-settings.php:791
+#: admin/assets/admin-layout-settings.php:960
+#: admin/assets/admin-layout-settings.php:1030
+#: admin/assets/admin-layout-settings.php:1094
+#: admin/assets/admin-layout-settings.php:1203
+#: admin/assets/admin-layout-settings.php:1304
+#: admin/assets/admin-layout-settings.php:1318
+#: admin/assets/admin-layout-settings.php:1553
+#: admin/assets/admin-layout-settings.php:1614
+#: admin/assets/admin-layout-settings.php:2133
+#: admin/assets/admin-layout-settings.php:2418
+#: admin/assets/admin-layout-settings.php:2623
+#: admin/assets/admin-layout-settings.php:2741
+#: admin/assets/admin-layout-settings.php:2913
+#: admin/assets/admin-layout-settings.php:3167
+#: admin/assets/admin-layout-settings.php:3233
+#: admin/assets/admin-layout-settings.php:3380
+#: admin/assets/admin-layout-settings.php:3610
+#: admin/assets/admin-layout-settings.php:3674
+#: admin/assets/admin-layout-settings.php:4216
+#: admin/assets/admin-layout-settings.php:4285
+#: admin/assets/admin-layout-settings.php:4859
+#: admin/assets/admin-layout-settings.php:4934
+#: admin/assets/admin-layout-settings.php:5120
+#: admin/assets/admin-layout-settings.php:5166
+#: admin/assets/admin-layout-settings.php:5706
+#: admin/assets/admin-layout-settings.php:5782
+#: admin/assets/admin-layout-settings.php:5958
+#: admin/assets/admin-layout-settings.php:5982
+#: admin/assets/admin-layout-settings.php:5997
+#: admin/assets/admin-layout-settings.php:6012
+#: admin/assets/admin-layout-settings.php:6037
+#: admin/assets/admin-layout-settings.php:6052
+#: admin/assets/admin-layout-settings.php:6067
+#: admin/assets/admin-layout-settings.php:6082
+#: admin/assets/admin-layout-settings.php:6097
+#: admin/assets/admin-layout-settings.php:6112
+#: admin/assets/admin-layout-settings.php:6127
+#: admin/assets/admin-layout-settings.php:6142
+#: admin/assets/admin-layout-settings.php:6156
+#: admin/assets/admin-layout-settings.php:6172
+#: admin/class-wp-timeline-lite-ajax.php:304
+#: admin/class-wp-timeline-lite-ajax.php:319
+#: admin/class-wp-timeline-lite-ajax.php:341
+#: admin/class-wtl-lite-custom-post-type.php:263
+#: admin/class-wtl-lite-custom-post-type.php:264 admin/wtl-functions.php:224
+#: admin/wtl-functions.php:309
+msgid "No"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:233
+#: admin/assets/add-custom-post-type.php:235
+#: admin/assets/add-custom-post-type.php:236
+msgid "Custom Category Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:241
+#: admin/assets/add-custom-post-type.php:244
+msgid "Custom Category Slug "
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:243
+msgid "Custom Category Slug"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:249
+msgid "Create Custom Tag"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:251
+msgid " Enable/Disable create custom tag"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:263
+#: admin/assets/add-custom-post-type.php:265
+#: admin/assets/add-custom-post-type.php:266
+msgid "Custom Tag Name"
+msgstr ""
+
+#: admin/assets/add-custom-post-type.php:271
+#: admin/assets/add-custom-post-type.php:273
+#: admin/assets/add-custom-post-type.php:274
+msgid "Custom Tag Slug "
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:99
+#: admin/assets/admin-shortcode-list.php:97
+msgid "Layout deleted successfully."
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:109
+#: admin/assets/admin-custom-post-type-list.php:121
+msgid "Custom Post Type are deleted successfully."
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:124
+#: admin/assets/admin-shortcode-list.php:116
+msgid "Designer Settings Added."
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:127
+#: admin/assets/admin-shortcode-list.php:119
+msgid "Designer Settings updated."
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:138
+msgid "Create New Custom Post Type"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:144
+#: admin/assets/admin-layout-settings.php:6284
+#: admin/assets/admin-shortcode-list.php:134
+#: admin/class-wtl-lite-custom-post-type.php:260
+msgid "All"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:160
+#: admin/assets/admin-shortcode-list.php:150
+msgid "Search Layout"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:164
+#: admin/assets/admin-custom-post-type-list.php:292
+#: admin/assets/admin-shortcode-list.php:154
+#: admin/assets/admin-shortcode-list.php:329
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:165
+#: admin/assets/admin-custom-post-type-list.php:293
+#: admin/assets/admin-shortcode-list.php:155
+#: admin/assets/admin-shortcode-list.php:330
+msgid "Delete Permanently"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:166
+#: admin/assets/admin-custom-post-type-list.php:294
+#: admin/assets/admin-shortcode-list.php:156
+#: admin/assets/admin-shortcode-list.php:331
+msgid "Export Layout"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:168
+#: admin/assets/admin-custom-post-type-list.php:296
+#: admin/assets/admin-shortcode-list.php:158
+#: admin/assets/admin-shortcode-list.php:333
+msgid "Apply"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:176
+#: admin/assets/admin-custom-post-type-list.php:306
+#: admin/assets/admin-shortcode-list.php:166
+#: admin/assets/admin-shortcode-list.php:343
+msgid "item"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:182
+#: admin/assets/admin-custom-post-type-list.php:312
+#: admin/assets/admin-shortcode-list.php:172
+#: admin/assets/admin-shortcode-list.php:349
+msgid "Go to the first page"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:183
+#: admin/assets/admin-custom-post-type-list.php:313
+#: admin/assets/admin-shortcode-list.php:173
+#: admin/assets/admin-shortcode-list.php:350
+msgid "Go to the previous page"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:187
+#: admin/assets/admin-custom-post-type-list.php:317
+#: admin/assets/admin-shortcode-list.php:177
+#: admin/assets/admin-shortcode-list.php:354
+msgid "of"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:194
+#: admin/assets/admin-custom-post-type-list.php:324
+#: admin/assets/admin-shortcode-list.php:184
+#: admin/assets/admin-shortcode-list.php:361
+msgid "Go to the next page"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:195
+#: admin/assets/admin-custom-post-type-list.php:325
+#: admin/assets/admin-shortcode-list.php:185
+#: admin/assets/admin-shortcode-list.php:362
+msgid "Go to the last page"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:211
+#: admin/assets/admin-custom-post-type-list.php:272
+#: admin/assets/admin-custom-post-type-list.php:285
+#: admin/assets/admin-shortcode-list.php:201
+#: admin/assets/admin-shortcode-list.php:309
+#: admin/assets/admin-shortcode-list.php:322
+#: admin/class-wtl-lite-custom-post-type.php:292
+msgid "Categories"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:212
+#: admin/assets/admin-custom-post-type-list.php:273
+#: admin/assets/admin-custom-post-type-list.php:286
+#: admin/assets/admin-shortcode-list.php:202
+#: admin/assets/admin-shortcode-list.php:310
+#: admin/assets/admin-shortcode-list.php:323
+#: admin/class-wtl-lite-custom-post-type.php:306
+#: wp_timeline_templates/class-wtl-lite-template-config.php:1123
+#: wp_timeline_templates/template-class/class-wtl-lite-template-curve-layout.php:562
+#: wp_timeline_templates/template-class/class-wtl-lite-template-easy-layout.php:244
+msgid "Tags"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:219
+msgid "No Custom Post Type found."
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:245
+#: admin/assets/admin-shortcode-list.php:268
+msgid "no title"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:251
+#: admin/assets/admin-shortcode-list.php:275
+msgid "Edit this item"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:251
+#: admin/assets/admin-shortcode-list.php:275
+#: admin/class-wtl-lite-custom-post-type.php:258
+msgid "Edit"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:252
+#: admin/assets/admin-shortcode-list.php:283
+msgid "Delete this item"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:252
+#: admin/assets/admin-shortcode-list.php:283
+msgid "Delete"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:259
+#: admin/assets/admin-layout-settings.php:131
+#: admin/assets/admin-shortcode-list.php:291
+msgid "View this item"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:260
+#: admin/assets/admin-shortcode-list.php:291
+#: admin/class-wtl-lite-custom-post-type.php:259
+msgid "View"
+msgstr ""
+
+#: admin/assets/admin-custom-post-type-list.php:267
+#: admin/assets/admin-shortcode-list.php:296
+msgid "Show more details"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:26
+msgid "Import Timeline Layouts"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:43
+msgid ""
+"Select import type and Choose a .txt file to upload, then click Upload "
+"file and import"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:48
+msgid "Import Type"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:50
+msgid "Please Select"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:51
+#: admin/class-wp-timeline-lite-admin.php:225
+msgid "Timeline Layouts"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:52
+msgid "Timeline Custom Post Type"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:56
+msgid "Choose a file from your computer"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:60
+#: admin/assets/admin-layout-settings.php:1289
+#: admin/assets/admin-layout-settings.php:1424
+msgid "Note"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:60
+msgid ""
+"If you have an query or face any issue while importing layout, please "
+"refer"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:60
+msgid "WP Timeline Document"
+msgstr ""
+
+#: admin/assets/admin-import-form.php:63
+msgid "Upload file and import"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:45
+msgid ""
+"You attempted to edit an item that doesn’t exist. Perhaps it was deleted?"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:58
+msgid ""
+"We have created a sample blog layout with \"classical\" timeline template."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:59
+msgid "View blog page"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:69
+msgid "Add New Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:78
+msgid "Layout has been added successfully."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:81
+#: admin/assets/admin-layout-settings.php:131
+#: admin/class-wp-timeline-lite-admin.php:1619
+msgid "View Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:106
+msgid "Choose Category Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:126
+msgid "Edit Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:135
+#: admin/assets/admin-shortcode-list.php:306
+msgid "Copy Shortcode"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:136
+#: admin/assets/admin-shortcode-list.php:128
+msgid "Create New Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:143
+msgid "wp-timeline settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:231
+msgid "General Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:232
+msgid "Standard Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:233
+msgid "Timeline Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:234
+msgid "Post Title Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:235
+msgid "Post Content Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:236
+msgid "Content Box Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:237
+msgid "Media Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:238
+msgid "Horizontal Timeline Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:239
+msgid "Pagination Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:241
+msgid "Social Share Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:250
+msgid "Select Timeline Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:252
+msgid "Select your favorite layout from 6 powerful blog timeline layouts"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:253
+msgid "Current Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:259
+msgid "Advanced Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:277
+msgid "Select Other Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:284
+msgid "Reset Layout Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:324
+#: admin/class-wp-timeline-lite-admin.php:170
+msgid "No template exist for selection"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:333
+#: admin/assets/admin-shortcode-list.php:196
+#: admin/assets/admin-shortcode-list.php:319
+msgid "Layout Name"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:335
+msgid "Enter blog layout name"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:336
+msgid "Enter layout name"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:340
+msgid "Timeline 1st Heading"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:342
+#: admin/assets/admin-layout-settings.php:349
+msgid "Enter timeline name which appear top of timeline"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:347
+msgid "Timeline 2nd Heading"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:354
+msgid "Select Post type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:356
+msgid "Select post type for blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:375
+msgid "Post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:404
+msgid ""
+"You are about to select the page for your layout. This will overwrite all "
+"the content on the page that you will select. Changes once lost cannot be "
+"recovered. Please be cautious."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:407
+msgid "Select Page for Blog"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:409
+msgid "Select page for display blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:418
+msgid "Select Page"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:429
+msgid "Number of Posts to Display"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:431
+msgid "Select number of posts to display on page"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:444
+msgid "Display Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:459
+msgid "Enable/Disable "
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:459
+msgid " in blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:480
+#: admin/assets/admin-layout-settings.php:511
+#: admin/assets/admin-layout-settings.php:536
+#: admin/assets/admin-layout-settings.php:563
+#: admin/assets/admin-layout-settings.php:586
+#: admin/assets/admin-layout-settings.php:614
+#: admin/class-wp-timeline-lite-ajax.php:306
+#: admin/class-wp-timeline-lite-ajax.php:322
+#: admin/class-wp-timeline-lite-ajax.php:351
+msgid "Disable Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:492
+#: admin/class-wp-timeline-lite-ajax.php:296
+msgid "Post Category"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:493
+#: admin/class-wp-timeline-lite-ajax.php:297
+msgid "Show post category on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:517
+#: admin/class-wp-timeline-lite-ajax.php:311
+msgid "Post Tag"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:518
+#: admin/class-wp-timeline-lite-ajax.php:312
+msgid "Show post tag on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:545
+msgid "Post Author"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:546
+msgid "Show post author on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:569
+msgid "Post Publish Date"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:570
+msgid "Show post publish date on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:594
+msgid "Post Comment Count"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:596
+msgid "Show post comment on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:621
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:623
+msgid "Write a \"Custom CSS\" to add your additional design for blog page"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:631
+msgid "Example"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:644
+msgid "Template Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:646
+msgid "Select template background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:652
+msgid "Link Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:652
+#: admin/assets/admin-layout-settings.php:660
+#: admin/assets/admin-layout-settings.php:1128
+#: admin/assets/admin-layout-settings.php:1149
+#: admin/assets/admin-layout-settings.php:1163
+#: admin/assets/admin-layout-settings.php:1180
+#: admin/assets/admin-layout-settings.php:1195
+#: admin/assets/admin-layout-settings.php:1213
+#: admin/assets/admin-layout-settings.php:1229
+#: admin/assets/admin-layout-settings.php:1248
+#: admin/assets/admin-layout-settings.php:2344
+#: admin/assets/admin-layout-settings.php:2353
+#: admin/assets/admin-layout-settings.php:2380
+msgid "PRO"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:654
+msgid "Select link color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:660
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:662
+msgid "Select link hover color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:668
+msgid "Number of Post offset"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:671
+#: admin/assets/admin-layout-settings.php:2202
+msgid "Select number of post offset to display on blog page"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:673
+#: admin/assets/admin-layout-settings.php:2227
+msgid "Enter post offset"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:680
+msgid "Post Meta Typography Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:683
+#: admin/assets/admin-layout-settings.php:852
+#: admin/assets/admin-layout-settings.php:1127
+#: admin/assets/admin-layout-settings.php:1456
+#: admin/assets/admin-layout-settings.php:2026
+#: admin/assets/admin-layout-settings.php:3063
+#: admin/assets/admin-layout-settings.php:3508
+#: admin/assets/admin-layout-settings.php:4104
+#: admin/assets/admin-layout-settings.php:4753
+#: admin/assets/admin-layout-settings.php:5018
+#: admin/assets/admin-layout-settings.php:5594
+msgid "Font Family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:683
+msgid "Select post meta font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:696
+#: admin/assets/admin-layout-settings.php:865
+#: admin/assets/admin-layout-settings.php:1136
+#: admin/assets/admin-layout-settings.php:1335
+#: admin/assets/admin-layout-settings.php:1471
+#: admin/assets/admin-layout-settings.php:2042
+#: admin/assets/admin-layout-settings.php:3078
+#: admin/assets/admin-layout-settings.php:3523
+#: admin/assets/admin-layout-settings.php:4119
+#: admin/assets/admin-layout-settings.php:4762
+#: admin/assets/admin-layout-settings.php:5033
+#: admin/assets/admin-layout-settings.php:5609
+msgid "Select Font Family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:729
+#: admin/assets/admin-layout-settings.php:898
+#: admin/assets/admin-layout-settings.php:1147
+#: admin/assets/admin-layout-settings.php:1502
+#: admin/assets/admin-layout-settings.php:2075
+#: admin/assets/admin-layout-settings.php:3111
+#: admin/assets/admin-layout-settings.php:3554
+#: admin/assets/admin-layout-settings.php:4150
+#: admin/assets/admin-layout-settings.php:4793
+#: admin/assets/admin-layout-settings.php:5064
+#: admin/assets/admin-layout-settings.php:5640
+msgid "Font Size (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:730
+msgid "Select font size for post meta"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:742
+#: admin/assets/admin-layout-settings.php:911
+#: admin/assets/admin-layout-settings.php:1161
+#: admin/assets/admin-layout-settings.php:1512
+#: admin/assets/admin-layout-settings.php:2087
+#: admin/assets/admin-layout-settings.php:3128
+#: admin/assets/admin-layout-settings.php:3571
+#: admin/assets/admin-layout-settings.php:4167
+#: admin/assets/admin-layout-settings.php:4810
+#: admin/assets/admin-layout-settings.php:5081
+#: admin/assets/admin-layout-settings.php:5657
+msgid "Font Weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:744
+#: admin/assets/admin-layout-settings.php:913
+#: admin/assets/admin-layout-settings.php:1164
+#: admin/assets/admin-layout-settings.php:1513
+#: admin/assets/admin-layout-settings.php:2088
+msgid "Select font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:759
+#: admin/assets/admin-layout-settings.php:928
+#: admin/assets/admin-layout-settings.php:1528
+#: admin/assets/admin-layout-settings.php:2103
+#: admin/assets/admin-layout-settings.php:3144
+#: admin/assets/admin-layout-settings.php:3587
+#: admin/assets/admin-layout-settings.php:4183
+#: admin/assets/admin-layout-settings.php:4826
+#: admin/assets/admin-layout-settings.php:5097
+#: admin/assets/admin-layout-settings.php:5673
+msgid "Bold"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:760
+#: admin/assets/admin-layout-settings.php:929
+#: admin/assets/admin-layout-settings.php:1529
+#: admin/assets/admin-layout-settings.php:2104
+#: admin/assets/admin-layout-settings.php:3145
+#: admin/assets/admin-layout-settings.php:3588
+#: admin/assets/admin-layout-settings.php:4184
+#: admin/assets/admin-layout-settings.php:4827
+#: admin/assets/admin-layout-settings.php:5098
+#: admin/assets/admin-layout-settings.php:5674
+msgid "Normal"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:768
+#: admin/assets/admin-layout-settings.php:937
+#: admin/assets/admin-layout-settings.php:1178
+#: admin/assets/admin-layout-settings.php:1537
+#: admin/assets/admin-layout-settings.php:2112
+#: admin/assets/admin-layout-settings.php:3152
+#: admin/assets/admin-layout-settings.php:3595
+#: admin/assets/admin-layout-settings.php:4191
+#: admin/assets/admin-layout-settings.php:4834
+#: admin/assets/admin-layout-settings.php:5105
+#: admin/assets/admin-layout-settings.php:5681
+msgid "Line Height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:769
+#: admin/assets/admin-layout-settings.php:938
+#: admin/assets/admin-layout-settings.php:1181
+#: admin/assets/admin-layout-settings.php:1538
+#: admin/assets/admin-layout-settings.php:2113
+#: admin/assets/admin-layout-settings.php:4202
+#: admin/assets/admin-layout-settings.php:4845
+#: admin/assets/admin-layout-settings.php:5692
+msgid "Enter line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:781
+#: admin/assets/admin-layout-settings.php:950
+#: admin/assets/admin-layout-settings.php:1193
+#: admin/assets/admin-layout-settings.php:1544
+#: admin/assets/admin-layout-settings.php:2123
+#: admin/assets/admin-layout-settings.php:3159
+#: admin/assets/admin-layout-settings.php:3602
+#: admin/assets/admin-layout-settings.php:4208
+#: admin/assets/admin-layout-settings.php:4851
+#: admin/assets/admin-layout-settings.php:5112
+#: admin/assets/admin-layout-settings.php:5698
+msgid "Italic Font Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:783
+#: admin/assets/admin-layout-settings.php:952
+#: admin/assets/admin-layout-settings.php:1196
+#: admin/assets/admin-layout-settings.php:1545
+#: admin/assets/admin-layout-settings.php:2125
+msgid "Display italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:798
+#: admin/assets/admin-layout-settings.php:967
+#: admin/assets/admin-layout-settings.php:1211
+#: admin/assets/admin-layout-settings.php:1560
+#: admin/assets/admin-layout-settings.php:2141
+#: admin/assets/admin-layout-settings.php:3174
+#: admin/assets/admin-layout-settings.php:3616
+#: admin/assets/admin-layout-settings.php:4222
+#: admin/assets/admin-layout-settings.php:4865
+#: admin/assets/admin-layout-settings.php:5712
+msgid "Text Transform"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:799
+#: admin/assets/admin-layout-settings.php:968
+#: admin/assets/admin-layout-settings.php:1214
+#: admin/assets/admin-layout-settings.php:1561
+#: admin/assets/admin-layout-settings.php:2143
+msgid "Select text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:805
+#: admin/assets/admin-layout-settings.php:824
+#: admin/assets/admin-layout-settings.php:974
+#: admin/assets/admin-layout-settings.php:993
+#: admin/assets/admin-layout-settings.php:1567
+#: admin/assets/admin-layout-settings.php:1586
+#: admin/assets/admin-layout-settings.php:1717
+#: admin/assets/admin-layout-settings.php:1829
+#: admin/assets/admin-layout-settings.php:2149
+#: admin/assets/admin-layout-settings.php:2168
+#: admin/assets/admin-layout-settings.php:2207
+#: admin/assets/admin-layout-settings.php:3182
+#: admin/assets/admin-layout-settings.php:3200
+#: admin/assets/admin-layout-settings.php:3623
+#: admin/assets/admin-layout-settings.php:3641
+#: admin/assets/admin-layout-settings.php:4229
+#: admin/assets/admin-layout-settings.php:4247
+#: admin/assets/admin-layout-settings.php:4872
+#: admin/assets/admin-layout-settings.php:4890
+#: admin/assets/admin-layout-settings.php:5133
+#: admin/assets/admin-layout-settings.php:5719
+#: admin/assets/admin-layout-settings.php:5737
+msgid "None"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:806
+#: admin/assets/admin-layout-settings.php:975
+#: admin/assets/admin-layout-settings.php:1568
+#: admin/assets/admin-layout-settings.php:2150
+#: admin/assets/admin-layout-settings.php:3183
+#: admin/assets/admin-layout-settings.php:3624
+#: admin/assets/admin-layout-settings.php:4230
+#: admin/assets/admin-layout-settings.php:4873
+#: admin/assets/admin-layout-settings.php:5720
+msgid "Capitalize"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:807
+#: admin/assets/admin-layout-settings.php:976
+#: admin/assets/admin-layout-settings.php:1569
+#: admin/assets/admin-layout-settings.php:2151
+#: admin/assets/admin-layout-settings.php:3184
+#: admin/assets/admin-layout-settings.php:3625
+#: admin/assets/admin-layout-settings.php:4231
+#: admin/assets/admin-layout-settings.php:4874
+#: admin/assets/admin-layout-settings.php:5721
+msgid "Uppercase"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:808
+#: admin/assets/admin-layout-settings.php:977
+#: admin/assets/admin-layout-settings.php:1570
+#: admin/assets/admin-layout-settings.php:2152
+#: admin/assets/admin-layout-settings.php:3185
+#: admin/assets/admin-layout-settings.php:3626
+#: admin/assets/admin-layout-settings.php:4232
+#: admin/assets/admin-layout-settings.php:4875
+#: admin/assets/admin-layout-settings.php:5722
+msgid "Lowercase"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:809
+#: admin/assets/admin-layout-settings.php:978
+#: admin/assets/admin-layout-settings.php:1571
+#: admin/assets/admin-layout-settings.php:2153
+#: admin/assets/admin-layout-settings.php:3186
+#: admin/assets/admin-layout-settings.php:3627
+#: admin/assets/admin-layout-settings.php:4233
+#: admin/assets/admin-layout-settings.php:4876
+#: admin/assets/admin-layout-settings.php:5723
+msgid "Full Width"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:817
+#: admin/assets/admin-layout-settings.php:986
+#: admin/assets/admin-layout-settings.php:1227
+#: admin/assets/admin-layout-settings.php:1579
+#: admin/assets/admin-layout-settings.php:2161
+#: admin/assets/admin-layout-settings.php:3193
+#: admin/assets/admin-layout-settings.php:3634
+#: admin/assets/admin-layout-settings.php:4240
+#: admin/assets/admin-layout-settings.php:4883
+#: admin/assets/admin-layout-settings.php:5126
+#: admin/assets/admin-layout-settings.php:5730
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:818
+#: admin/assets/admin-layout-settings.php:987
+#: admin/assets/admin-layout-settings.php:1230
+#: admin/assets/admin-layout-settings.php:1580
+#: admin/assets/admin-layout-settings.php:2162
+msgid "Select text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:825
+#: admin/assets/admin-layout-settings.php:994
+#: admin/assets/admin-layout-settings.php:1587
+#: admin/assets/admin-layout-settings.php:2169
+#: admin/assets/admin-layout-settings.php:3201
+#: admin/assets/admin-layout-settings.php:3642
+#: admin/assets/admin-layout-settings.php:4248
+#: admin/assets/admin-layout-settings.php:4891
+#: admin/assets/admin-layout-settings.php:5134
+#: admin/assets/admin-layout-settings.php:5738
+msgid "Underline"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:826
+#: admin/assets/admin-layout-settings.php:995
+#: admin/assets/admin-layout-settings.php:1588
+#: admin/assets/admin-layout-settings.php:2170
+#: admin/assets/admin-layout-settings.php:3202
+#: admin/assets/admin-layout-settings.php:3643
+#: admin/assets/admin-layout-settings.php:4249
+#: admin/assets/admin-layout-settings.php:4892
+#: admin/assets/admin-layout-settings.php:5135
+#: admin/assets/admin-layout-settings.php:5739
+msgid "Overline"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:827
+#: admin/assets/admin-layout-settings.php:996
+#: admin/assets/admin-layout-settings.php:1589
+#: admin/assets/admin-layout-settings.php:2171
+#: admin/assets/admin-layout-settings.php:3203
+#: admin/assets/admin-layout-settings.php:3644
+#: admin/assets/admin-layout-settings.php:4250
+#: admin/assets/admin-layout-settings.php:4893
+#: admin/assets/admin-layout-settings.php:5136
+#: admin/assets/admin-layout-settings.php:5740
+msgid "Line Through"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:835
+#: admin/assets/admin-layout-settings.php:1004
+#: admin/assets/admin-layout-settings.php:1246
+#: admin/assets/admin-layout-settings.php:1597
+#: admin/assets/admin-layout-settings.php:2179
+#: admin/assets/admin-layout-settings.php:3210
+#: admin/assets/admin-layout-settings.php:3651
+#: admin/assets/admin-layout-settings.php:4257
+#: admin/assets/admin-layout-settings.php:4900
+#: admin/assets/admin-layout-settings.php:5143
+#: admin/assets/admin-layout-settings.php:5747
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:836
+#: admin/assets/admin-layout-settings.php:1005
+#: admin/assets/admin-layout-settings.php:1249
+#: admin/assets/admin-layout-settings.php:1598
+#: admin/assets/admin-layout-settings.php:2180
+msgid "Enter letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:849
+msgid "Date Typography Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:852
+msgid "Select post date font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:899
+msgid "Select font size for post date"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1022
+msgid "Post Title Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1024
+msgid "Display post title link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1035
+msgid "Post Title Alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1037
+msgid "Select post title alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1046
+#: admin/assets/admin-layout-settings.php:1672
+#: admin/assets/admin-layout-settings.php:2362
+#: admin/assets/admin-layout-settings.php:3268
+#: admin/assets/admin-layout-settings.php:3407
+#: admin/assets/admin-layout-settings.php:3693
+#: admin/assets/admin-layout-settings.php:4322
+#: admin/assets/admin-layout-settings.php:4342
+#: admin/assets/admin-layout-settings.php:4961
+#: admin/assets/admin-layout-settings.php:5185
+#: admin/assets/admin-layout-settings.php:6258
+msgid "Left"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1048
+#: admin/assets/admin-layout-settings.php:1674
+#: admin/assets/admin-layout-settings.php:2358
+#: admin/assets/admin-layout-settings.php:3270
+#: admin/assets/admin-layout-settings.php:3409
+#: admin/assets/admin-layout-settings.php:3695
+#: admin/assets/admin-layout-settings.php:4324
+#: admin/assets/admin-layout-settings.php:4344
+#: admin/assets/admin-layout-settings.php:4963
+#: admin/assets/admin-layout-settings.php:5187
+#: admin/assets/admin-layout-settings.php:6259
+msgid "Center"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1050
+#: admin/assets/admin-layout-settings.php:1676
+#: admin/assets/admin-layout-settings.php:2364
+#: admin/assets/admin-layout-settings.php:3272
+#: admin/assets/admin-layout-settings.php:3411
+#: admin/assets/admin-layout-settings.php:3697
+#: admin/assets/admin-layout-settings.php:4326
+#: admin/assets/admin-layout-settings.php:4346
+#: admin/assets/admin-layout-settings.php:4965
+#: admin/assets/admin-layout-settings.php:5189
+#: admin/assets/admin-layout-settings.php:6241
+#: admin/assets/admin-layout-settings.php:6260
+msgid "Right"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1055
+msgid "Post Title Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1057
+msgid " Select post title color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1063
+msgid "Post Title Link Hover Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1065
+msgid "Select post title link hover color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1078
+msgid "Post Title Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1080
+msgid "Select post title background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1086
+msgid "Post Title Maximum Line"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1088
+msgid "Set Post Title Maximum Line"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1099
+msgid "Display Maximum number of line "
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1101
+msgid "Enter Maximum number of line to show"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1103
+msgid "Set limit of lines"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1108
+msgid "Post Title Break Words"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1110
+msgid "Break Words Type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1114
+msgid "Default "
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1116
+msgid "Break All"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1118
+msgid "Break Word"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1123
+#: admin/assets/admin-layout-settings.php:3059
+#: admin/assets/admin-layout-settings.php:3504
+#: admin/assets/admin-layout-settings.php:4100
+#: admin/assets/admin-layout-settings.php:4749
+#: admin/assets/admin-layout-settings.php:5014
+#: admin/assets/admin-layout-settings.php:5590
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1129
+msgid "Select font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1150
+msgid "Select font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1267
+msgid "For each Article in a Feed, Show"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1269
+msgid ""
+"To display full text for each post, select full text option, otherwise "
+"select the summary option."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1272
+msgid "Full Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1274
+msgid "Summary"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1280
+msgid "Show Content From"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1282
+msgid "To display text from post content or from post excerpt"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1285
+msgid "Post Content"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1286
+msgid "Post Excerpt"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1290
+msgid ""
+"If Post Excerpt is empty then Content will get automatically from Post "
+"Content."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1296
+msgid "Display HTML tags with Summary"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1298
+msgid "Show HTML tags with summary"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1310
+msgid "First letter as Dropcap"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1312
+msgid "Display first letter as dropcap"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1323
+msgid "Dropcap Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1327
+msgid "Dropcap Font Family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1328
+msgid "Select font family for dropcap"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1365
+msgid "Dropcap Font Size (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1366
+msgid "Select font size for dropcap"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1376
+msgid "Dropcap Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1377
+msgid "Select dropcap color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1393
+msgid "Enter post content length (words)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1395
+msgid "Enter post content length in number of words"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1397
+msgid "Enter content length"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1402
+msgid "Advance Post Contents"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1404
+msgid "Enable/Disable advance blog contents"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1408
+#: admin/assets/admin-layout-settings.php:2448
+#: admin/assets/admin-layout-settings.php:2461
+#: admin/assets/admin-layout-settings.php:2474
+#: admin/assets/admin-layout-settings.php:2581
+#: admin/assets/admin-layout-settings.php:2594
+#: admin/assets/admin-layout-settings.php:5854
+msgid "Enable"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1410
+#: admin/assets/admin-layout-settings.php:2450
+#: admin/assets/admin-layout-settings.php:2463
+#: admin/assets/admin-layout-settings.php:2476
+#: admin/assets/admin-layout-settings.php:2583
+#: admin/assets/admin-layout-settings.php:2596
+#: admin/assets/admin-layout-settings.php:5856
+msgid "Disable"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1415
+msgid "Stoppage From"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1417
+msgid "Display content stoppage from"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1420
+msgid "Last Paragraph"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1421
+msgid "Characters"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1425
+msgid ""
+"If \"Display HTML tags with Summary\" is Enable then Stoppage From "
+"Characters option is disable."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1430
+msgid "Stoppage Characters"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1432
+msgid "Select display content stoppage characters"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1434
+msgid "Choose stoppage characters"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1444
+msgid "Post Content Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1446
+msgid "Select post content color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1452
+msgid "Post Content Typography Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1457
+msgid "Select post content font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1503
+msgid "Select font size for post content"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1606
+msgid "Display Read More Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1608
+msgid "Enable/Disable to show read more post link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1619
+msgid "Display Read More On"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1621
+msgid "Select option for display read more button where to display"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1625
+#: admin/assets/admin-layout-settings.php:4304
+msgid "Same Line"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1627
+#: admin/assets/admin-layout-settings.php:4306
+msgid "Next Line"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1632
+msgid "Read More Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1634
+msgid "Enter read more text label"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1640
+msgid "Read More Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1642
+msgid "Select read more link type."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1646
+#: admin/assets/admin-layout-settings.php:6220
+msgid "Post Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1648
+msgid "Custom Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1653
+msgid "Custom Link URL"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1655
+msgid "Enter custom link url."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1657
+msgid "eg."
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1661
+msgid "Read More Button Alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1663
+msgid "Select read more button alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1681
+msgid "Read More Text Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1683
+msgid "Select read more text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1689
+msgid "Read More Hover Text Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1692
+msgid "Select read more hover text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1697
+msgid "Read More Text Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1699
+msgid "Select read more text background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1705
+msgid "Read More Text Hover Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1707
+msgid "Select read more text hover background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1712
+msgid "Read More Button Border Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1714
+msgid "Select read more button border type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1718
+#: admin/assets/admin-layout-settings.php:1830
+#: admin/assets/admin-layout-settings.php:2208
+msgid "Dotted"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1719
+#: admin/assets/admin-layout-settings.php:1831
+#: admin/assets/admin-layout-settings.php:2209
+msgid "Dashed"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1720
+#: admin/assets/admin-layout-settings.php:1832
+#: admin/assets/admin-layout-settings.php:2210
+msgid "Solid"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1721
+#: admin/assets/admin-layout-settings.php:1833
+#: admin/assets/admin-layout-settings.php:2211
+msgid "Double"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1722
+#: admin/assets/admin-layout-settings.php:1834
+#: admin/assets/admin-layout-settings.php:2212
+msgid "Groove"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1723
+#: admin/assets/admin-layout-settings.php:1835
+#: admin/assets/admin-layout-settings.php:2213
+msgid "Ridge"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1724
+#: admin/assets/admin-layout-settings.php:1836
+#: admin/assets/admin-layout-settings.php:2214
+msgid "Inset"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1725
+#: admin/assets/admin-layout-settings.php:1837
+#: admin/assets/admin-layout-settings.php:2215
+msgid "Outset"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1730
+msgid "Read More Button Border Radius(px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1732
+msgid "Select read more button border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1740
+msgid "Read More Button Border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1742
+msgid "Select read more button border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1746
+#: admin/assets/admin-layout-settings.php:1859
+#: admin/assets/admin-layout-settings.php:1937
+#: admin/assets/admin-layout-settings.php:1981
+#: admin/assets/admin-layout-settings.php:2976
+#: admin/assets/admin-layout-settings.php:3020
+#: admin/assets/admin-layout-settings.php:3282
+#: admin/assets/admin-layout-settings.php:3326
+#: admin/assets/admin-layout-settings.php:3421
+#: admin/assets/admin-layout-settings.php:3465
+#: admin/assets/admin-layout-settings.php:3760
+#: admin/assets/admin-layout-settings.php:3851
+#: admin/assets/admin-layout-settings.php:4409
+#: admin/assets/admin-layout-settings.php:4500
+#: admin/assets/admin-layout-settings.php:4975
+#: admin/assets/admin-layout-settings.php:5250
+#: admin/assets/admin-layout-settings.php:5341
+msgid "Left (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1765
+#: admin/assets/admin-layout-settings.php:1878
+#: admin/assets/admin-layout-settings.php:1946
+#: admin/assets/admin-layout-settings.php:1990
+#: admin/assets/admin-layout-settings.php:2985
+#: admin/assets/admin-layout-settings.php:3029
+#: admin/assets/admin-layout-settings.php:3291
+#: admin/assets/admin-layout-settings.php:3335
+#: admin/assets/admin-layout-settings.php:3430
+#: admin/assets/admin-layout-settings.php:3474
+#: admin/assets/admin-layout-settings.php:3777
+#: admin/assets/admin-layout-settings.php:3868
+#: admin/assets/admin-layout-settings.php:4426
+#: admin/assets/admin-layout-settings.php:4517
+#: admin/assets/admin-layout-settings.php:4984
+#: admin/assets/admin-layout-settings.php:5267
+#: admin/assets/admin-layout-settings.php:5358
+msgid "Right (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1784
+#: admin/assets/admin-layout-settings.php:1895
+#: admin/assets/admin-layout-settings.php:1955
+#: admin/assets/admin-layout-settings.php:1999
+#: admin/assets/admin-layout-settings.php:2994
+#: admin/assets/admin-layout-settings.php:3038
+#: admin/assets/admin-layout-settings.php:3300
+#: admin/assets/admin-layout-settings.php:3344
+#: admin/assets/admin-layout-settings.php:3439
+#: admin/assets/admin-layout-settings.php:3483
+#: admin/assets/admin-layout-settings.php:3794
+#: admin/assets/admin-layout-settings.php:3885
+#: admin/assets/admin-layout-settings.php:4443
+#: admin/assets/admin-layout-settings.php:4534
+#: admin/assets/admin-layout-settings.php:4993
+#: admin/assets/admin-layout-settings.php:5284
+#: admin/assets/admin-layout-settings.php:5375
+msgid "Top (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1803
+#: admin/assets/admin-layout-settings.php:1912
+#: admin/assets/admin-layout-settings.php:3811
+#: admin/assets/admin-layout-settings.php:3902
+#: admin/assets/admin-layout-settings.php:4460
+#: admin/assets/admin-layout-settings.php:4551
+#: admin/assets/admin-layout-settings.php:5301
+#: admin/assets/admin-layout-settings.php:5392
+msgid "Bottom(px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1824
+msgid "Read More Button Hover Border Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1826
+msgid "Select read more button hover border type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1842
+msgid "Read More Hover Button Border Radius(px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1844
+msgid "Select read more hover button border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1852
+msgid "Read More Hover Button Border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1854
+msgid "Select read more hover button border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1932
+msgid "Read More Button padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1934
+msgid "Set read more button padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1964
+#: admin/assets/admin-layout-settings.php:2008
+#: admin/assets/admin-layout-settings.php:3003
+#: admin/assets/admin-layout-settings.php:3047
+#: admin/assets/admin-layout-settings.php:3309
+#: admin/assets/admin-layout-settings.php:3353
+#: admin/assets/admin-layout-settings.php:3448
+#: admin/assets/admin-layout-settings.php:3492
+#: admin/assets/admin-layout-settings.php:5002
+msgid "Bottom (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1976
+msgid "Read More Button Margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:1978
+msgid "Set read more button margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2021
+msgid "Read More Typography Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2028
+msgid "Select read more button font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2076
+msgid "Select font size for read more button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2195
+msgid "Content Box border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2204
+msgid "Enter Border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2222
+msgid "Content Box Border Radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2225
+msgid "Select content box border radious "
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2232
+#: admin/assets/admin-layout-settings.php:2234
+msgid "Content Box Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2239
+msgid "Content Box Shadow Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2243
+#: admin/assets/admin-layout-settings.php:3978
+#: admin/assets/admin-layout-settings.php:4041
+#: admin/assets/admin-layout-settings.php:4627
+#: admin/assets/admin-layout-settings.php:4690
+#: admin/assets/admin-layout-settings.php:5468
+#: admin/assets/admin-layout-settings.php:5531
+msgid "H-offset (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2244
+#: admin/assets/admin-layout-settings.php:3979
+#: admin/assets/admin-layout-settings.php:4042
+#: admin/assets/admin-layout-settings.php:4628
+#: admin/assets/admin-layout-settings.php:4691
+#: admin/assets/admin-layout-settings.php:5469
+#: admin/assets/admin-layout-settings.php:5532
+msgid "Select horizontal offset value"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2255
+#: admin/assets/admin-layout-settings.php:3990
+#: admin/assets/admin-layout-settings.php:4053
+#: admin/assets/admin-layout-settings.php:4639
+#: admin/assets/admin-layout-settings.php:4702
+#: admin/assets/admin-layout-settings.php:5480
+#: admin/assets/admin-layout-settings.php:5543
+msgid "V-offset (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2256
+#: admin/assets/admin-layout-settings.php:3991
+#: admin/assets/admin-layout-settings.php:4054
+#: admin/assets/admin-layout-settings.php:4640
+#: admin/assets/admin-layout-settings.php:5481
+#: admin/assets/admin-layout-settings.php:5544
+msgid "Select vertical offset value"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2267
+#: admin/assets/admin-layout-settings.php:4002
+#: admin/assets/admin-layout-settings.php:4065
+#: admin/assets/admin-layout-settings.php:4651
+#: admin/assets/admin-layout-settings.php:4714
+#: admin/assets/admin-layout-settings.php:5492
+#: admin/assets/admin-layout-settings.php:5555
+msgid "Blur (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2268
+#: admin/assets/admin-layout-settings.php:4003
+#: admin/assets/admin-layout-settings.php:4066
+#: admin/assets/admin-layout-settings.php:4652
+#: admin/assets/admin-layout-settings.php:4715
+#: admin/assets/admin-layout-settings.php:5493
+#: admin/assets/admin-layout-settings.php:5556
+msgid "Select blur value"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2279
+#: admin/assets/admin-layout-settings.php:4014
+#: admin/assets/admin-layout-settings.php:4077
+#: admin/assets/admin-layout-settings.php:4663
+#: admin/assets/admin-layout-settings.php:4726
+#: admin/assets/admin-layout-settings.php:5504
+#: admin/assets/admin-layout-settings.php:5567
+msgid "Spread (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2280
+#: admin/assets/admin-layout-settings.php:4015
+#: admin/assets/admin-layout-settings.php:4078
+#: admin/assets/admin-layout-settings.php:4664
+#: admin/assets/admin-layout-settings.php:4727
+#: admin/assets/admin-layout-settings.php:5505
+#: admin/assets/admin-layout-settings.php:5568
+msgid "Select spread value"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2291
+#: admin/assets/admin-layout-settings.php:4026
+#: admin/assets/admin-layout-settings.php:4089
+#: admin/assets/admin-layout-settings.php:4675
+#: admin/assets/admin-layout-settings.php:4738
+#: admin/assets/admin-layout-settings.php:5516
+#: admin/assets/admin-layout-settings.php:5579
+msgid "Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2292
+#: admin/assets/admin-layout-settings.php:4027
+#: admin/assets/admin-layout-settings.php:4090
+#: admin/assets/admin-layout-settings.php:4676
+#: admin/assets/admin-layout-settings.php:4739
+#: admin/assets/admin-layout-settings.php:5517
+#: admin/assets/admin-layout-settings.php:5580
+msgid "Select box shadow color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2302
+#: admin/assets/admin-layout-settings.php:2971
+#: admin/assets/admin-layout-settings.php:3277
+#: admin/assets/admin-layout-settings.php:3416
+#: admin/assets/admin-layout-settings.php:3922
+#: admin/assets/admin-layout-settings.php:4571
+#: admin/assets/admin-layout-settings.php:4970
+#: admin/assets/admin-layout-settings.php:5412
+msgid "Padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2304
+msgid "Set box padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2307
+#: admin/assets/admin-layout-settings.php:3927
+#: admin/assets/admin-layout-settings.php:3953
+#: admin/assets/admin-layout-settings.php:4576
+#: admin/assets/admin-layout-settings.php:4602
+#: admin/assets/admin-layout-settings.php:5417
+#: admin/assets/admin-layout-settings.php:5443
+msgid "Left-Right (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2316
+#: admin/assets/admin-layout-settings.php:3936
+#: admin/assets/admin-layout-settings.php:3962
+#: admin/assets/admin-layout-settings.php:4585
+#: admin/assets/admin-layout-settings.php:4611
+#: admin/assets/admin-layout-settings.php:5426
+#: admin/assets/admin-layout-settings.php:5452
+msgid "Top-Bottom (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2334
+msgid "Timeline Line Width"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2337
+msgid "Set Timeline Line width"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2339
+msgid "Enter Line width"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2344
+msgid "Timeline Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2346
+msgid "Select Timeline Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2348
+msgid "Default Design"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2353
+msgid "Timeline Style View"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2355
+msgid "Timeline Layout View"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2360
+msgid "Minima"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2369
+msgid "Timeline Animation"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2371
+msgid "Animation on timeline style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2374
+msgid "Fade"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2375
+#: admin/assets/admin-layout-settings.php:2494
+msgid "Zoom In"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2380
+msgid "Timeline Icons Border Radius (%)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2382
+msgid "Set Timeline Border Radious"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2388
+msgid "Template Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2390
+msgid "Select post template color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2396
+msgid "Story Startup Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2398
+msgid "Enter timeline startup text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2399
+msgid "Timeline Startup Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2403
+msgid "Story Ending Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2405
+msgid "Enter timeline ending text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2406
+msgid "Timeline Ending Text"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2410
+msgid "Hide Timeline Icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2412
+msgid "Show/Hide Timeline Icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2423
+msgid "Layout Type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2425
+msgid "Select Layout View Horizontal or Vertical"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2429
+msgid "Horizontal Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2431
+msgid "Vertical Layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2442
+msgid "Enable Media"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2444
+msgid "Enable post media"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2455
+msgid "Post Image Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2457
+msgid "Show post image link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2468
+msgid "Post Image Hover Effect"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2470
+msgid "Enable/Disable image hover effect"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2481
+msgid "Select Post Image Hover Effect"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2483
+msgid "Select image hover effect"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2486
+msgid "Blur"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2487
+msgid "Flashing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2488
+msgid "Gray Scale"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2489
+msgid "Opacity"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2490
+msgid "Sepia"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2491
+msgid "Slide"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2492
+msgid "Shine"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2493
+msgid "Shine Circle"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2495
+msgid "Zoom Out"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2500
+msgid "Select Post Default Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2520
+msgid "Select Post Media Size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2522
+msgid "Select size of post media"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2524
+msgid "Original Resolution"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2544
+msgid "Custom Size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2549
+msgid "Add Cutom Size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2551
+msgid "Enter custom size for post media"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2555
+msgid "Width"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2564
+msgid "Height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2575
+msgid "Enable Lazy Load Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2577
+msgid "Enable/Disable Lazy Load Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2588
+msgid "Enable Lazy Load Blurred Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2590
+msgid "Enable/Disable Lazy Load Blurred Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2601
+msgid "Select Lazy Load Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2604
+msgid "Select lazy load color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2615
+msgid "Display Timeline Bar"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2617
+msgid "Display timeline bar on blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2628
+msgid "Active Post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2630
+msgid "Select post to start timeline layout with some specific post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2658
+msgid "No posts found"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2665
+msgid "Posts Effect"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2667
+msgid "Select the transition effect for blog layout"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2670
+msgid "easeInQuad"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2671
+msgid "easeOutQuad"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2672
+msgid "easeInOutQuad"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2673
+#: admin/assets/admin-layout-settings.php:2674
+msgid "easeInCubic"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2675
+msgid "easeInOutCubic"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2676
+msgid "easeInQuart"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2677
+msgid "easeOutQuart"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2678
+msgid "easeInOutQuart"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2679
+msgid "easeInQuint"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2680
+msgid "easeOutQuint"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2681
+msgid "easeInOutQuint"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2682
+msgid "easeInSine"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2683
+msgid "easeOutSine"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2684
+msgid "easeInOutSine"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2685
+msgid "easeInExpo"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2686
+msgid "easeOutExpo"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2687
+msgid "easeInOutExpo"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2688
+msgid "easeInCirc"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2689
+#: admin/assets/admin-layout-settings.php:2691
+msgid "easeOutCirc"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2690
+#: admin/assets/admin-layout-settings.php:2692
+msgid "easeInOutCirc"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2693
+msgid "easeInElastic"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2694
+msgid "easeOutElastic"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2695
+msgid "easeInOutElastic"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2696
+msgid "easeInBack"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2697
+msgid "easeOutBack"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2698
+msgid "easeInOutBack"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2699
+msgid "easeInBounce"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2700
+msgid "easeOutBounce"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2701
+msgid "easeInOutBounce"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2706
+msgid "Post Width (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2708
+msgid "Select the width of the post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2715
+msgid "Item Height (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2717
+msgid "Select the height of the post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2724
+msgid "Margin between Blog Post (px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2726
+msgid "Select the margin for post"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2733
+msgid "Enable Autoslide"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2735
+msgid "Enable autoslide"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2746
+msgid "Scrolling Speed(ms)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2748
+msgid "Select the slide speed"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2755
+#: admin/assets/admin-layout-settings.php:2757
+msgid "Number of Navigation Item"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2764
+msgid "Number of Slide"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2766
+msgid "Number of Slides"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2780
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2782
+msgid "Select pagination type"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2784
+msgid "No Pagination"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2785
+msgid "Paged"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2790
+msgid "Pagination Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2792
+msgid "Select pagination template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2795
+msgid "Template 1"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2796
+msgid "Template 2"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2797
+msgid "Template 3"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2798
+msgid "Template 4"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2806
+msgid "Pagination Color Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2810
+#: admin/assets/admin-layout-settings.php:2921
+#: admin/assets/admin-layout-settings.php:3388
+#: admin/assets/admin-layout-settings.php:3702
+#: admin/assets/admin-layout-settings.php:4351
+#: admin/assets/admin-layout-settings.php:4942
+#: admin/assets/admin-layout-settings.php:5194
+msgid "Text Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2811
+msgid "Select text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2820
+#: admin/assets/admin-layout-settings.php:2929
+#: admin/assets/admin-layout-settings.php:3249
+#: admin/assets/admin-layout-settings.php:3724
+#: admin/assets/admin-layout-settings.php:4373
+#: admin/assets/admin-layout-settings.php:5216
+msgid "Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2821
+msgid "Select background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2830
+msgid "Text Hover Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2831
+msgid "Select text hover color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2840
+#: admin/assets/admin-layout-settings.php:3732
+#: admin/assets/admin-layout-settings.php:4381
+#: admin/assets/admin-layout-settings.php:5224
+msgid "Hover Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2841
+msgid "Select hover background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2850
+msgid "Active Text Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2851
+msgid "Select active text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2860
+msgid "Active Background Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2861
+msgid "Select active background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2870
+msgid "Border Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2871
+msgid "Select border color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2880
+msgid "Active Border Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2881
+msgid "Select active border color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2900
+msgid "Display Sale Tag"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2902
+msgid "Enable/Disable sale tag"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2918
+msgid "Sale Tag Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2923
+msgid "Select sale tag text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2931
+msgid "Select sale tag background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2937
+#: admin/assets/admin-layout-settings.php:3257
+#: admin/assets/admin-layout-settings.php:3396
+#: admin/assets/admin-layout-settings.php:3682
+#: admin/assets/admin-layout-settings.php:4331
+#: admin/assets/admin-layout-settings.php:4950
+#: admin/assets/admin-layout-settings.php:5174
+msgid "Alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2939
+msgid "Select sale tag alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2947
+msgid "Left Top"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2948
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2949
+msgid "Right Top"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2950
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2955
+msgid "Angle(0-360 deg)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2957
+msgid "Select sale tag angle"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2963
+msgid "Border Radius(%)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2965
+msgid "Select sale tag border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:2973
+msgid "Select sale tag padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3015
+#: admin/assets/admin-layout-settings.php:3321
+#: admin/assets/admin-layout-settings.php:3460
+#: admin/assets/admin-layout-settings.php:3948
+#: admin/assets/admin-layout-settings.php:4597
+#: admin/assets/admin-layout-settings.php:5438
+msgid "Margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3017
+msgid "Select sale tag margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3064
+msgid "Select sale tag font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3112
+msgid "Select sale tag font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3129
+msgid "Select sale tag font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3153
+msgid "Select sale tag line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3160
+msgid "Display sale tag italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3176
+msgid "Select sale tag text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3194
+msgid "Select sale tag text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3211
+msgid "Enter sale tag letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3220
+msgid "Display Product Rating"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3222
+msgid "Enable/Disable product rating"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3238
+msgid "Star Rating Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3241
+msgid "Star Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3243
+msgid "Select star rating color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3251
+msgid "Select star background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3259
+msgid "Select star rating alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3279
+msgid "Select star rating padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3323
+msgid "Select star rating margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3367
+#: admin/assets/admin-layout-settings.php:4921
+msgid "Display Price"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3369
+msgid "Enable/Disable price"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3385
+msgid "Price Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3390
+#: admin/assets/admin-layout-settings.php:4944
+msgid "Select price text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3398
+#: admin/assets/admin-layout-settings.php:4952
+msgid "Select price text alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3418
+#: admin/assets/admin-layout-settings.php:4972
+msgid "Set price text padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3462
+msgid "Select price text margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3509
+#: admin/assets/admin-layout-settings.php:5019
+msgid "Select price text font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3555
+#: admin/assets/admin-layout-settings.php:5065
+msgid "Select price text font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3572
+#: admin/assets/admin-layout-settings.php:5082
+msgid "Select price text font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3596
+#: admin/assets/admin-layout-settings.php:5106
+msgid "Select price text line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3603
+#: admin/assets/admin-layout-settings.php:5113
+msgid "Display price text italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3617
+msgid "Select price text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3635
+#: admin/assets/admin-layout-settings.php:5127
+msgid "Select price text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3652
+#: admin/assets/admin-layout-settings.php:5144
+msgid "Enter price text letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3661
+msgid "Display Add To Cart Button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3663
+msgid "Enable/Disable add to cart button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3679
+msgid "Cart Button Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3684
+#: admin/assets/admin-layout-settings.php:5176
+msgid "Select cart button alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3704
+#: admin/assets/admin-layout-settings.php:5196
+msgid "Select cart button text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3716
+#: admin/assets/admin-layout-settings.php:4365
+#: admin/assets/admin-layout-settings.php:5208
+msgid "Hover Text Color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3718
+#: admin/assets/admin-layout-settings.php:5210
+msgid "Select cart button text hover color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3726
+#: admin/assets/admin-layout-settings.php:5218
+msgid "Select cart button background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3734
+#: admin/assets/admin-layout-settings.php:5226
+msgid "Select cart button hover background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3740
+#: admin/assets/admin-layout-settings.php:4389
+#: admin/assets/admin-layout-settings.php:5232
+msgid "Border Radius(px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3742
+#: admin/assets/admin-layout-settings.php:5234
+msgid "Select cart button border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3755
+#: admin/assets/admin-layout-settings.php:4404
+#: admin/assets/admin-layout-settings.php:5245
+msgid "Border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3757
+#: admin/assets/admin-layout-settings.php:5247
+msgid "Select cart button border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3831
+#: admin/assets/admin-layout-settings.php:5321
+msgid "Hover Border Radius(px)"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3833
+#: admin/assets/admin-layout-settings.php:5323
+msgid "Select cart button hover border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3846
+#: admin/assets/admin-layout-settings.php:4495
+#: admin/assets/admin-layout-settings.php:5336
+msgid "Hover Border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3848
+#: admin/assets/admin-layout-settings.php:5338
+msgid "Select cart button hover border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3924
+msgid "Set cart button padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3950
+msgid "Set cart button margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:3974
+#: admin/assets/admin-layout-settings.php:4623
+#: admin/assets/admin-layout-settings.php:5464
+msgid "Box Shadow Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4037
+#: admin/assets/admin-layout-settings.php:4686
+#: admin/assets/admin-layout-settings.php:5527
+msgid "Hover Box Shadow Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4105
+#: admin/assets/admin-layout-settings.php:5595
+msgid "Select cart button font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4151
+msgid "Select cart button font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4168
+msgid "Select cart button font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4192
+msgid "Select cart button line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4209
+msgid "Display cart button italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4223
+msgid "Select cart button text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4241
+msgid "Select cart button text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4258
+msgid "Enter cart button letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4272
+msgid "Display Add To Wishlist Button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4274
+msgid "Enable/Disable add to wishlist button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4290
+msgid "Wishlist Button Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4293
+msgid "DisplayButton on"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4295
+msgid "Show wishlist button on"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4311
+msgid "Wrapper Alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4313
+msgid "Select cart button & wishlist button alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4333
+msgid "Select wishlist button alignment"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4353
+msgid "Select wishlist button text color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4367
+msgid "Select wishlist text hover color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4375
+msgid "Select wishlist button background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4383
+msgid "Select wishlist button hover background color"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4391
+msgid "Select wishlist button border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4406
+#: admin/assets/admin-layout-settings.php:4497
+msgid "Select wishlist button border"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4480
+msgid "Hover Border Radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4482
+msgid "Select wishlist button hover border radius"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4573
+msgid "Set wishlist button padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4599
+msgid "Set wishlist button margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4703
+msgid "Select vertical side value"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4754
+msgid "Select wishlist button font family"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4794
+msgid "Select wishlist button font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4811
+msgid "Select wishlist button font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4835
+msgid "Select wishlist button line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4852
+msgid "Display wishlist button italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4866
+msgid "Select wishlist button text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4884
+msgid "Select wishlist button text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4901
+msgid "Enter wishlist button letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4923
+msgid "Enable/Disable product price"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:4939
+msgid "Product Price Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5153
+msgid "Display Purchase Button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5155
+msgid "Enable/Disable purchase button"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5171
+msgid "Purchase Button Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5414
+msgid "Set purchase button padding"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5440
+msgid "Set purchase button margin"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5641
+msgid "Select purchase button font size"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5658
+msgid "Select purchase button font weight"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5682
+msgid "Select purchase button line height"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5699
+msgid "Display purchase button italic font style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5713
+msgid "Select purchase button text transform style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5731
+msgid "Select purchase button text decoration style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5748
+msgid "Enter purchase button letter spacing"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5769
+msgid "Display Acf Field"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5771
+msgid "Show ACF field"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5802
+#: includes/class-wp-timeline-lite-main.php:430
+msgid "Select ACF Field"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5805
+#: includes/class-wp-timeline-lite-main.php:434
+msgid "Filter post via category"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5807
+#: includes/class-wp-timeline-lite-main.php:438
+msgid "Choose acf field"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5848
+msgid "Social Share"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5850
+msgid "Enable/Disable social share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5861
+msgid "Social Share Style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5863
+msgid "Select social share style"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5872
+msgid "Default"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5874
+msgid "Custom"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5879
+msgid "Shape of Social Icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5881
+msgid "Select shape of social icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5885
+msgid "Circle"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5887
+msgid "Square"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5892
+msgid "Size of Social Icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5894
+msgid "Select size of social icon"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5898
+msgid "Extra Small"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5900
+msgid "Small"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5902
+msgid "Large"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5907
+msgid "Available Icon Themes"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5909
+msgid "Select icon theme from available icon theme"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5945
+msgid "Social Share Links Settings"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5949
+msgid "Facebook Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5950
+msgid "Enable/Disable facebook share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5967
+msgid "Hide Facebook Share Count"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5973
+msgid "Twitter Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5974
+msgid "Enable/Disable twitter share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5988
+msgid "Linkedin Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:5989
+msgid "Enable/Disable linkedin share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6003
+msgid "Pinterest Share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6004
+msgid "Enable/Disable pinterest share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6022
+msgid "Hide Pinterest Share Count"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6028
+msgid "Show Pinterest on Featured Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6029
+msgid "Enable/Disable pinterest share button on feature image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6043
+msgid "Skype Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6044
+msgid "Enable/Disable skype share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6058
+msgid "Pocket Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6059
+msgid "Enable/Disable pocket share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6073
+msgid "Telegram Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6074
+msgid "Enable/Disable telegram share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6088
+msgid "Reddit Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6089
+msgid "Enable/Disable reddit share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6103
+msgid "Digg Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6104
+msgid "Enable/Disable digg share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6118
+msgid "Tumblr Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6119
+msgid "Enable/Disable tumblr share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6133
+msgid "WordPress Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6134
+msgid "Enable/Disable WordPress share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6148
+msgid "Share via Mail"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6149
+msgid "Enable/Disable mail share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6163
+msgid "WhatsApp Share Link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6164
+msgid "Enable/Disable whatsapp share link"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6179
+msgid "Facebook Access Token"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6181
+msgid "Facebook access token"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6192
+msgid "Mail Share Content"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6194
+msgid "Mail share content"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6196
+msgid "Enter Mail Subject"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6214
+#: includes/class-wp-timeline-lite.php:652
+msgid "My Dear friends,"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6214
+#: includes/class-wp-timeline-lite.php:652
+msgid ""
+"I read one good blog link and I would like to share that same link with "
+"you. That might useful for you"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6214
+#: includes/class-wp-timeline-lite.php:652
+msgid "Best Regards"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6214
+#: admin/class-wp-timeline-lite-admin.php:223
+#: admin/class-wp-timeline-lite-support.php:77
+#: admin/class-wp-timeline-lite-support.php:82
+msgid "WP Timeline"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6219
+msgid "Post Title"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6221
+msgid "Post Featured Image"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6222
+msgid "Mail Sender Name"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6223
+msgid "Mail Sender Email Address"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6229
+msgid "Social Share Count Position"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6231
+msgid "Select social share count position"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6240
+msgid "Bottom"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6242
+msgid "Top"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6248
+msgid "Social Share Position"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6249
+msgid "Select social share position"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6287
+msgid "Free"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6290
+msgid "Search Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6309
+#: admin/class-wp-timeline-lite-admin.php:367
+#: admin/class-wp-timeline-lite-admin.php:394
+msgid "Select Template"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6310
+#: admin/assets/admin-layout-settings.php:6320
+#: admin/class-wp-timeline-lite-admin.php:368
+#: admin/class-wp-timeline-lite-admin.php:378
+#: admin/class-wp-timeline-lite-admin.php:395
+#: admin/class-wp-timeline-lite-admin.php:405
+msgid "Live Demo"
+msgstr ""
+
+#: admin/assets/admin-layout-settings.php:6330
+msgid "No template found. Please try again"
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:103
+#: admin/assets/admin-shortcode-list.php:113
+msgid "Layouts are deleted successfully."
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:127
+msgid "Layouts"
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:199
+#: admin/assets/admin-shortcode-list.php:298
+#: admin/assets/admin-shortcode-list.php:320
+msgid "Template Name"
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:200
+#: admin/assets/admin-shortcode-list.php:305
+#: admin/assets/admin-shortcode-list.php:321
+msgid "Shortcode"
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:210
+msgid "No Layout found."
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:279
+msgid "Duplicate this item"
+msgstr ""
+
+#: admin/assets/admin-shortcode-list.php:279
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:168
+msgid "Oops, nothing found!"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:169
+msgid "Apply default style of this selected template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:171
+#: includes/class-wp-timeline-lite.php:602
+msgid "Close"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:172
+msgid "Choose the blog timeline template you love"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:173
+msgid "Set Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:174
+msgid "Select Arrow"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:175
+msgid "Choose the template you love for your single post"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:176
+msgid "Do you want to reset data?"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:177
+msgid "Please enter font URL"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:178
+msgid "Please enter a valid font URL"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:179
+msgid "Remove"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:180
+msgid "Remove Font"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:181
+msgid "Font added successfully."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:182
+msgid "Font not added successfully."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:183
+msgid "Are you sure want to delete google font?"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:184
+msgid "Font deleted successfully."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:185
+msgid "Font not deleted successfully."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:186
+#: wp_timeline_templates/class-wtl-lite-template-config.php:301
+#: wp_timeline_templates/class-wtl-lite-template-config.php:324
+msgid "Read More"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:187
+msgid "Load More"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:188
+msgid "info."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:189
+msgid "information"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:190
+msgid "About"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:191
+msgid "Learn More"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:192
+msgid "View More"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:193
+msgid "Information about"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:194
+msgid "Read More Link Hover Color"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:196
+msgid "STARTUP"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:198
+msgid "Copied"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:199
+msgid "Copy for Support"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:208
+msgid "Select Images for Gallery"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:209
+msgid "Require atleast one field"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:210
+msgid "Are you sure you want to remove image?"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:223
+msgid "WP Timeline Designer"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:226
+msgid "Timeline Layout Settings"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:226
+msgid "Add Timeline Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:229
+msgid "Add Custom Post Type"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:230
+msgid "Import Layouts"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:259
+#: admin/class-wp-timeline-lite-admin.php:278
+msgid "Number of items per page:"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:534
+msgid "Related Posts"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1606
+msgid "Error in updating shortcode."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1612
+msgid "Layout reset successfully."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1615
+msgid "Layout updated successfully. "
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1630
+#: admin/class-wp-timeline-lite-admin.php:1667
+msgid "Error in Adding shortcode."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1662
+msgid "Copy"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1675
+msgid "No layout to duplicate has been supplied!"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1807
+msgid "You must have to select import type"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1816
+msgid "You must upload a .txt file generated by this plugin."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1833
+#: admin/class-wp-timeline-lite-admin.php:1936
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1867
+msgid "Timeline Layout imported successfully"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1869
+#: admin/class-wp-timeline-lite-admin.php:1901
+msgid "Table not found. Please try again."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1899
+msgid "Timeline Custom Post Type imported successfully"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1927
+msgid "Please check your file format or import type."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1932
+msgid "Import file is empty. Please try again."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-admin.php:1983
+msgid "Single Post Settings"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:66
+msgid "Soft Block Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:72
+msgid "Advanced Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:78
+msgid "Hire Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:84
+msgid "Full Width Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:90
+msgid "Curve Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:96
+msgid "Easy Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:102
+msgid "Cool Horizontal Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:108
+msgid "Overlay Horizontal Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:114
+msgid "Schedule Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:120
+msgid "Year Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:126
+msgid "Milestone Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:132
+msgid "Story Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:138
+msgid "Glossary Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:144
+msgid "Boxy Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:150
+msgid "Wise Block Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:156
+msgid "Cover Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:162
+#: admin/class-wp-timeline-lite-ajax.php:192
+msgid "Rounded Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:168
+msgid "Accordion Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:174
+msgid "Attract Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:180
+msgid "ClassicTimeline Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:186
+msgid "Collapsible Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:198
+msgid "Divide Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:204
+msgid "FilledTimeline Layout Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:210
+msgid "FullHorizontal Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:216
+msgid "FullVertical Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:222
+msgid "Infographic Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:228
+msgid "Leafty Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:234
+msgid "Top Divide Timeline Template"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:240
+msgid "Colorful Vertical Timeline Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:247
+msgid "Box Timeline Infographic Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:254
+msgid "Circle Paper Infographics Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:261
+msgid "Creative Infographic Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:334
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-ajax.php:334
+msgid "in blog layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-support.php:111
+msgid "Select Layout"
+msgstr ""
+
+#: admin/class-wp-timeline-lite-support.php:140
+msgid ""
+"WP Timeline is a step ahead wordpress plugin that allows you to modify "
+"blog page, single page and archive page layouts and design."
+msgstr ""
+
+#: admin/class-wp-timeline-lite-support.php:146
+msgid "Select WP Timeline Layout"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:47
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:94
+msgid "Custom Post Type Plural Name is required."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:97
+msgid "Custom Post Type Singular Name is required."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:100
+msgid "Custom Post Type Slug is required."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:103
+msgid "Custom Category Slug is required."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:106
+msgid "Custom Tag Slug is required."
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:255
+#: admin/class-wtl-lite-custom-post-type.php:256
+msgid "Add New"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:257
+msgid "New"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:261
+msgid "Search"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:262
+msgid "Parent"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:263
+msgid "found"
+msgstr ""
+
+#: admin/class-wtl-lite-custom-post-type.php:264
+msgid "found in Trash"
+msgstr ""
+
+#: admin/wtl-functions.php:96
+msgid "Post Format"
+msgstr ""
+
+#: admin/wtl-functions.php:104 admin/wtl-functions.php:252
+msgid "Image"
+msgstr ""
+
+#: admin/wtl-functions.php:110
+msgid "Slide Show"
+msgstr ""
+
+#: admin/wtl-functions.php:116
+msgid "Video"
+msgstr ""
+
+#: admin/wtl-functions.php:122
+msgid "Quote"
+msgstr ""
+
+#: admin/wtl-functions.php:127
+msgid "The featured image will be displayed."
+msgstr ""
+
+#: admin/wtl-functions.php:131
+msgid "Slide Show Images"
+msgstr ""
+
+#: admin/wtl-functions.php:145
+msgid "Select Images"
+msgstr ""
+
+#: admin/wtl-functions.php:152
+msgid "Edit Selection"
+msgstr ""
+
+#: admin/wtl-functions.php:158
+msgid "Remove All"
+msgstr ""
+
+#: admin/wtl-functions.php:165
+msgid "Video Format"
+msgstr ""
+
+#: admin/wtl-functions.php:174
+msgid "Youtube video"
+msgstr ""
+
+#: admin/wtl-functions.php:180
+msgid "Vimeo video"
+msgstr ""
+
+#: admin/wtl-functions.php:186
+msgid "Dailymotion video"
+msgstr ""
+
+#: admin/wtl-functions.php:192
+msgid "HTML5 Video"
+msgstr ""
+
+#: admin/wtl-functions.php:198
+msgid "Video ID"
+msgstr ""
+
+#: admin/wtl-functions.php:202
+msgid "Enter the ID of video."
+msgstr ""
+
+#: admin/wtl-functions.php:207
+msgid "Quote Text"
+msgstr ""
+
+#: admin/wtl-functions.php:217
+msgid "Display Post Custom Link"
+msgstr ""
+
+#: admin/wtl-functions.php:230
+msgid "Enter Post Custom Link"
+msgstr ""
+
+#: admin/wtl-functions.php:237 admin/wtl-functions.php:258
+msgid "Post Timeline Icon"
+msgstr ""
+
+#: admin/wtl-functions.php:245
+msgid "Font Awesome"
+msgstr ""
+
+#: admin/wtl-functions.php:262
+msgid "Select icon"
+msgstr ""
+
+#: admin/wtl-functions.php:263
+msgid "Select Icon"
+msgstr ""
+
+#: admin/wtl-functions.php:265
+msgid "Search icon"
+msgstr ""
+
+#: admin/wtl-functions.php:272
+msgid "Timeline Icon Image"
+msgstr ""
+
+#: admin/wtl-functions.php:291
+msgid "Advanced Timeline Content Settings"
+msgstr ""
+
+#: admin/wtl-functions.php:293
+msgid " Background Color"
+msgstr ""
+
+#: admin/wtl-functions.php:302
+msgid "Set on Title Background Color Only"
+msgstr ""
+
+#: admin/wtl-functions.php:315
+msgid "Content Color"
+msgstr ""
+
+#: admin/wtl-functions.php:323
+msgid "Hire Timeline Content Settings"
+msgstr ""
+
+#: admin/wtl-functions.php:326
+msgid "Set Timeline Time"
+msgstr ""
+
+#: admin/wtl-functions.php:336
+msgid "Select Time"
+msgstr ""
+
+#: admin/wtl-functions.php:360
+msgid "Set Timeline Time Format"
+msgstr ""
+
+#: admin/wtl-functions.php:370
+msgid "12 Hour"
+msgstr ""
+
+#: admin/wtl-functions.php:379
+msgid "24 Hour"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:126
+msgid "No posts found."
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:268
+#: includes/class-wp-timeline-lite-main.php:273
+#: includes/class-wp-timeline-lite-main.php:278
+msgid "Serif Fonts"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:283
+#: includes/class-wp-timeline-lite-main.php:288
+#: includes/class-wp-timeline-lite-main.php:293
+#: includes/class-wp-timeline-lite-main.php:298
+#: includes/class-wp-timeline-lite-main.php:303
+#: includes/class-wp-timeline-lite-main.php:308
+#: includes/class-wp-timeline-lite-main.php:313
+#: includes/class-wp-timeline-lite-main.php:318
+msgid "Sans-Serif Fonts"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:323
+#: includes/class-wp-timeline-lite-main.php:328
+msgid "Monospace Fonts"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:337
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:853
+msgid "days ago"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:864
+msgid "days"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:1272
+#: includes/class-wp-timeline-lite-main.php:1279
+msgid "Loading Image"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:1649
+msgctxt "Word count type. Do not translate!"
+msgid "Words"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:1693
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:2155
+msgid "Previous"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:2156
+#: public/css/layout-dynamic-style.php:462
+#: public/css/layout-dynamic-style.php:473
+msgid "Next"
+msgstr ""
+
+#: includes/class-wp-timeline-lite-main.php:2262
+msgid ""
+"GD Library Error: imagecreatetruecolor does not exist - please contact "
+"your webhost and ask them to install the GD library"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:321
+msgid "Error"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:321
+msgid ""
+"WP Timeline Designer shortcode not found. Please cross check your Layout "
+"selection id."
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:334
+#: includes/class-wp-timeline-lite.php:342
+msgid "Invalid shortcode"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:589
+msgid "Send to Email Address"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:593
+msgid "Your Name"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:597
+msgid "Your Email Address"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:601
+msgid "Send Email"
+msgstr ""
+
+#: includes/class-wp-timeline-lite.php:652
+msgid "Blog Designer"
+msgstr ""
+
+#: public/class-wp-timeline-lite-public.php:233
+msgid "Like"
+msgstr ""
+
+#: public/class-wp-timeline-lite-public.php:234
+msgid "Unlike"
+msgstr ""
+
+#: public/css/layout-dynamic-style.php:465
+#: public/css/layout-dynamic-style.php:477
+msgid "Prev"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:50
+msgid "No Comments"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:50
+msgid "comment"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:50
+#: wp_timeline_templates/blog/fullwidth-layout.php:52
+#: wp_timeline_templates/class-wtl-lite-template-config.php:989
+msgid "comments"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:52
+#: wp_timeline_templates/class-wtl-lite-template-config.php:989
+msgid "Leave a Comment"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:52
+#: wp_timeline_templates/class-wtl-lite-template-config.php:989
+msgid "1 comment"
+msgstr ""
+
+#: wp_timeline_templates/blog/fullwidth-layout.php:52
+#: wp_timeline_templates/class-wtl-lite-template-config.php:989
+msgid "Comments are off"
+msgstr ""
+
+#: wp_timeline_templates/class-wtl-lite-template-config.php:1017
+#: wp_timeline_templates/template-class/class-wtl-lite-template-advanced-layout.php:344
+#: wp_timeline_templates/template-class/class-wtl-lite-template-curve-layout.php:496
+#: wp_timeline_templates/template-class/class-wtl-lite-template-fullwidth-layout.php:170
+msgid "Category"
+msgstr ""
+
+#: wp_timeline_templates/template-class/class-wtl-lite-template-advanced-layout.php:411
+#: wp_timeline_templates/template-class/class-wtl-lite-template-fullwidth-layout.php:237
+msgid "Tag"
+msgstr ""
